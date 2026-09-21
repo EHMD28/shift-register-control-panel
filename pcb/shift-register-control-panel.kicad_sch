@@ -3586,6 +3586,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 193.04 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "44459f89-5a6a-4522-99d9-a41a6a899877")
 		)
@@ -3645,6 +3654,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 101.6 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 101.6 124.46 0)
 			(effects
 				(font
@@ -3720,6 +3738,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 157.48 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "09e2eb5b-d9cf-4fc8-9934-4e973a6e2b7e")
 		)
@@ -3780,6 +3807,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 193.04 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 193.04 129.54 0)
 			(effects
 				(font
@@ -3933,6 +3969,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 82.55 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9b9bdbe8-9126-4886-ac0a-eec04ac149c6")
 		)
@@ -3994,6 +4039,15 @@
 			)
 		)
 		(property "Description" "Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220"
+			(at 147.32 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 147.32 46.99 0)
 			(effects
 				(font
@@ -4064,6 +4118,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 101.6 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 101.6 100.33 0)
 			(effects
 				(font
@@ -4207,6 +4270,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 113.03 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9660de0b-b6a0-43c6-9c83-5bb773df4f17")
 		)
@@ -4276,6 +4348,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 175.26 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 175.26 137.16 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4483,6 +4564,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 175.26 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6a16fe59-23b9-4da2-abd8-bf251e83a859")
 		)
@@ -4544,6 +4634,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 113.03 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 113.03 128.27 0)
 			(effects
 				(font
@@ -4622,6 +4721,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 115.57 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d93c23f6-66fe-47a2-8c9a-fb5250401d99")
 		)
@@ -4683,6 +4791,15 @@
 			)
 		)
 		(property "Description" "Switch, single pole double throw"
+			(at 73.66 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 73.66 82.55 0)
 			(effects
 				(font
@@ -4754,6 +4871,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 184.15 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 184.15 129.54 0)
 			(effects
 				(font
@@ -4970,6 +5096,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 201.93 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7292cf99-dc24-4b4a-b0a9-fa13084136a6")
 		)
@@ -5038,6 +5173,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 157.48 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "29830213-26d0-4708-b129-e6692ab57d55")
 		)
@@ -5098,6 +5242,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 166.37 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 166.37 129.54 0)
 			(effects
 				(font
@@ -5182,6 +5335,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 166.37 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3f274787-42eb-499f-9b5d-a3303c1c3e38")
 		)
@@ -5242,6 +5404,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 201.93 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 201.93 129.54 0)
 			(effects
 				(font
@@ -5319,6 +5490,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 184.15 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 184.15 137.16 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5468,6 +5648,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 210.82 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f977eacd-c0ee-489d-869b-4719b7963fe2")
 		)
@@ -5537,6 +5726,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 219.71 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 219.71 137.16 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5810,6 +6008,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 128.27 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "05ce93ee-8d23-41f0-b4af-d18e9ec7756e")
 		)
@@ -5881,6 +6088,15 @@
 			)
 		)
 		(property "Description" "8-bit serial in/out Shift Register 3-State Outputs"
+			(at 140.97 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 140.97 106.68 0)
 			(effects
 				(font
@@ -5998,6 +6214,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 101.6 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b17fc270-a396-46fd-a7a9-18c2468db90f")
 		)
@@ -6068,6 +6293,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 82.55 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ea2ee01c-787d-4427-b804-5b328836bc65")
 		)
@@ -6128,6 +6362,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 219.71 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 219.71 129.54 0)
 			(effects
 				(font
@@ -6205,6 +6448,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 157.48 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 157.48 137.16 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6414,6 +6666,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 232.41 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "594078a6-8a96-4572-94d1-86bd554d1ca6")
 		)
@@ -6558,6 +6819,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 210.82 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 210.82 129.54 0)
 			(effects
 				(font
