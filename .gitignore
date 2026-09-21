@@ -45,3 +45,7 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# 3D Models
+*.step
+*.3mf
