@@ -7,6 +7,7 @@ The schematic is [available here](./assets/shift-register-control-panel.pdf). To
 ## To-Do
 
 - [ ] Change 330 Ω resistors to 1 kΩ in schematic to stay within current limits of 74HC595
+- [ ] Add dimensions and other specs to the readme file.
 
 ## Bill of Materials
 
