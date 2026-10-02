@@ -2,6 +2,8 @@
 
 The schematic is [available here](./assets/shift-register-control-panel.pdf). To order a PCB, download this project, and create a zip archive of the `gerbers` directory. Upload this archive to the PCB service when prompted.
 
+Dimensions: 2.7228 x 1.6437 inches (4.475 in^2)
+
 ![pcb-model-with-components](./assets/pcb-model-with-components.png)
 
 ## To-Do
